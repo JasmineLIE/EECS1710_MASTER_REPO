@@ -15,3 +15,9 @@ A creature project that focuses on interactivity between objects coming within p
 
 # [Project 2: Fogton Cup](https://github.com/JasmineLIE/EECS1710_Project2_FogtonCup)
 A one-button game project that focuses on incoporating a polished look with engaging player interaction.  The player is taken through a visual novel-type game that requires one button to go through.  They must read the character's dialogue to decipher which out of the five drinks would be the best one to serve--with some causing displeasure, satisfaction, or pleasure.  They're taken through a minigame within the game that is required to play with the same single button to proceed.  At the end, their drink decision affects the outcome.
+
+# [E.x 4: Garden Letters](https://github.com/JasmineLIE/EECS1710_Exercise4)
+A letter generator exercise that utilizes SVGs and PImages to create letters and randomly generate flowers based on user input.  Users click the program to cycle through the letters from A to C.
+
+#[E.x 5: Potion Brew](https://github.com/JasmineLIE/EECS1710_Exercise5)
+A sound exercise that demonstrates user interaction and the manipulation of sound based on user input.  Users press the number keys 1-4 to choose ingredients to make a potion.  All the ingredients have their different sound effects.
