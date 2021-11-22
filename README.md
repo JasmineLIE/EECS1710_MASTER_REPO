@@ -19,12 +19,11 @@ A one-button game project that focuses on incoporating a polished look with enga
 # [E.x 4: Garden Letters](https://github.com/JasmineLIE/EECS1710_Exercise4)
 A letter generator exercise that utilizes SVGs and PImages to create letters and randomly generate flowers based on user input.  Users click the program to cycle through the letters from A to C.
 
-# [Project 3: Coven](https://github.com/JasmineLIE/EECS1710_Project3_Coven)
-An atmosphereic program that showcases multiple forms of pixel manipulation.  The player is taken through a clear beginning, middle, and end stage.  They must interact with the T.V by pressing the number keys 1-4, read the story that pans out before them, and open the mysterious box.  
-
 # [E.x 5: Potion Brew](https://github.com/JasmineLIE/EECS1710_Exercise5)
 A sound exercise that demonstrates user interaction and the manipulation of sound based on user input.  Users press the number keys 1-4 to choose ingredients to make a potion.  All the ingredients have their different sound effects.
 
+# [Project 3: Coven](https://github.com/JasmineLIE/EECS1710_Project3_Coven)
+An atmosphereic program that showcases multiple forms of pixel manipulation.  The player is taken through a clear beginning, middle, and end stage.  They must interact with the T.V by pressing the number keys 1-4, read the story that pans out before them, and open the mysterious box.  
 
 # [E.x 6: Video Practice](https://github.com/JasmineLIE/EECS1710_Exercise6)
 A Open CV practice that allows users to cycle through different CV effects using the number keys 1-4.
