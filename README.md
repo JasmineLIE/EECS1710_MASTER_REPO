@@ -26,6 +26,5 @@ An atmosphereic program that showcases multiple forms of pixel manipulation.  Th
 A sound exercise that demonstrates user interaction and the manipulation of sound based on user input.  Users press the number keys 1-4 to choose ingredients to make a potion.  All the ingredients have their different sound effects.
 
 
-
-#[E.x 6: Video Practice](https://github.com/JasmineLIE/EECS1710_Exercise6)
+# [E.x 6: Video Practice](https://github.com/JasmineLIE/EECS1710_Exercise6)
 A Open CV practice that allows users to cycle through different CV effects using the number keys 1-4.
