@@ -30,3 +30,6 @@ A Open CV practice that allows users to cycle through different CV effects using
 
 # [E.x 7: Shaders Practice](https://github.com/JasmineLIE/EECS1710_Exercise7)
 A shaders practice that combines elements of 3D objects and polygonal shaders provided in the library.
+
+# [E.x 8: OSC Practice](https://github.com/JasmineLIE/EECS1710_Exercise8)
+An OSC practice that networks the Processing program with a Max file.  Drawing from the Bloom shaders, the user will draw a line onto the canvas which vibrancy depends on the music frequency.
