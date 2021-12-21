@@ -33,3 +33,6 @@ A shaders practice that combines elements of 3D objects and polygonal shaders pr
 
 # [E.x 8: OSC Practice](https://github.com/JasmineLIE/EECS1710_Exercise8)
 An OSC practice that networks the Processing program with a Max file.  Drawing from the Bloom shaders, the user will draw a line onto the canvas which vibrancy depends on the music frequency.
+
+# [Project 4: Emporium](https://github.com/JasmineLIE/EECS1710_Project4_Emporium)
+A synaesthetic instrument that syncs audio and visual, combined with user interactivity, to create an artistic program.  Networking with MAX 8, the user can click on the circles to play a track or multiple.  By pressing the number keys based on what each circle represents, they can toggle the track for pitch manipulation, which is done by dragging the cursor through the 'pitch pool' on the right (which is activated and deactivated by pressing 'x').
